@@ -15,10 +15,11 @@
   "private": true,
   "license": "MIT",
   "devDependencies": {
-    "prettier": "^3.3.2",
     "@cloudflare/workers-types": "^4.20240529.0",
     "@hono/vite-cloudflare-pages": "^0.4.1",
     "@hono/vite-dev-server": "^0.12.1",
+    "@mdx-js/rollup": "^3.0.1",
+    "prettier": "^3.3.2",
     "vite": "^5.2.12",
     "wrangler": "^3.57.2"
   },
